@@ -1,0 +1,37 @@
+2024-04-06 09:14:41,244:INFO:Starting the application
+2024-04-06 09:14:41,268:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:14:41,268:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:14:41,271:INFO: * Restarting with stat
+2024-04-06 09:14:41,963:INFO:Starting the application
+2024-04-06 09:14:41,972:WARNING: * Debugger is active!
+2024-04-06 09:14:41,978:INFO: * Debugger PIN: 137-640-324
+2024-04-06 09:15:34,250:INFO:Starting the application
+2024-04-06 09:15:34,375:INFO:Starting the application
+2024-04-06 09:16:51,911:INFO:Starting the application
+2024-04-06 09:16:51,931:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:16:51,931:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:16:51,931:INFO: * Restarting with stat
+2024-04-06 09:16:52,490:INFO:Starting the application
+2024-04-06 09:16:52,499:WARNING: * Debugger is active!
+2024-04-06 09:16:52,503:INFO: * Debugger PIN: 137-640-324
+2024-04-06 09:19:29,275:INFO:Starting the application
+2024-04-06 09:19:29,418:INFO:Starting the application
+2024-04-06 09:19:37,573:INFO:Starting the application
+2024-04-06 09:19:37,597:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:19:37,597:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:19:37,601:INFO: * Restarting with stat
+2024-04-06 09:19:38,199:INFO:Starting the application
+2024-04-06 09:19:38,210:WARNING: * Debugger is active!
+2024-04-06 09:19:38,219:INFO: * Debugger PIN: 137-640-324
+2024-04-06 09:19:49,288:INFO:127.0.0.1 - - [06/Apr/2024 09:19:49] "GET / HTTP/1.1" 200 -
+2024-04-06 09:19:49,421:INFO:127.0.0.1 - - [06/Apr/2024 09:19:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:22:20,584:INFO:127.0.0.1 - - [06/Apr/2024 09:22:20] "GET / HTTP/1.1" 200 -
+2024-04-06 09:24:41,705:INFO:127.0.0.1 - - [06/Apr/2024 09:24:41] "GET / HTTP/1.1" 200 -
+2024-04-06 09:24:45,391:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:24:45,408:INFO:Prediction: 155849.9
+2024-04-06 09:24:45,410:INFO:127.0.0.1 - - [06/Apr/2024 09:24:45] "POST / HTTP/1.1" 200 -
+2024-04-06 09:37:01,764:INFO:Starting the application
+2024-04-06 09:37:01,853:INFO:Starting the application

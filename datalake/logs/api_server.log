@@ -1,0 +1,55 @@
+2024-04-06 07:35:27,364:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:35:27,365:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:35:27,372:INFO: * Restarting with stat
+2024-04-06 07:35:28,632:WARNING: * Debugger is active!
+2024-04-06 07:35:28,636:INFO: * Debugger PIN: 137-640-324
+2024-04-06 07:50:44,425:INFO:127.0.0.1 - - [06/Apr/2024 07:50:44] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:52:13,276:INFO:127.0.0.1 - - [06/Apr/2024 07:52:13] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:52:51,450:INFO:127.0.0.1 - - [06/Apr/2024 07:52:51] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:56:26,853:INFO:127.0.0.1 - - [06/Apr/2024 07:56:26] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:56:32,709:INFO:127.0.0.1 - - [06/Apr/2024 07:56:32] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:57:09,227:INFO:127.0.0.1 - - [06/Apr/2024 07:57:09] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:59:30,921:INFO:127.0.0.1 - - [06/Apr/2024 07:59:30] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:02:04,717:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:02:04,724:INFO:127.0.0.1 - - [06/Apr/2024 08:02:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 08:02:42,237:INFO: * Detected change in 'C:\\Users\\Pc\\OneDrive\\Documentos\\GitHub\\taller-presencial-sebastian-ospina-c\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:02:42,380:INFO: * Restarting with stat
+2024-04-06 08:02:43,594:WARNING: * Debugger is active!
+2024-04-06 08:02:43,600:INFO: * Debugger PIN: 137-640-324
+2024-04-06 08:05:01,988:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:05:01,988:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:05:01,991:INFO: * Restarting with stat
+2024-04-06 08:05:03,097:WARNING: * Debugger is active!
+2024-04-06 08:05:03,102:INFO: * Debugger PIN: 137-640-324
+2024-04-06 08:05:34,106:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:05:38,395:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:05:38,396:INFO:127.0.0.1 - - [06/Apr/2024 08:05:38] "POST / HTTP/1.1" 200 -
+2024-04-06 08:19:47,072:INFO: * Detected change in 'C:\\Users\\Pc\\OneDrive\\Documentos\\GitHub\\taller-presencial-sebastian-ospina-c\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:19:47,399:INFO: * Restarting with stat
+2024-04-06 08:19:49,167:WARNING: * Debugger is active!
+2024-04-06 08:19:49,174:INFO: * Debugger PIN: 137-640-324
+2024-04-06 08:23:17,095:INFO: * Detected change in 'C:\\Users\\Pc\\OneDrive\\Documentos\\GitHub\\taller-presencial-sebastian-ospina-c\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:23:17,357:INFO: * Restarting with stat
+2024-04-06 08:23:18,832:WARNING: * Debugger is active!
+2024-04-06 08:23:18,836:INFO: * Debugger PIN: 137-640-324
+2024-04-06 08:23:23,232:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:23:24,100:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:23:24,101:INFO:127.0.0.1 - - [06/Apr/2024 08:23:24] "POST / HTTP/1.1" 200 -
+2024-04-06 09:15:03,835:INFO:127.0.0.1 - - [06/Apr/2024 09:15:03] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:15:03,917:INFO:127.0.0.1 - - [06/Apr/2024 09:15:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:15:09,195:INFO:127.0.0.1 - - [06/Apr/2024 09:15:09] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:15:26,099:INFO:127.0.0.1 - - [06/Apr/2024 09:15:26] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:24:19,068:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:24:19,069:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:24:19,070:INFO: * Restarting with stat
+2024-04-06 09:24:20,494:WARNING: * Debugger is active!
+2024-04-06 09:24:20,500:INFO: * Debugger PIN: 137-640-324
+2024-04-06 09:24:23,766:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 09:24:25,898:INFO:Prediction: [1605832.10562042]
+2024-04-06 09:24:25,899:INFO:127.0.0.1 - - [06/Apr/2024 09:24:25] "POST / HTTP/1.1" 200 -
+2024-04-06 09:24:45,401:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:24:45,404:INFO:Prediction: [155849.90294016]
+2024-04-06 09:24:45,404:INFO:127.0.0.1 - - [06/Apr/2024 09:24:45] "POST / HTTP/1.1" 200 -
